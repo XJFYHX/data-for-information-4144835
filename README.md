@@ -7,9 +7,6 @@ This repository contains the research data and supplementary materials for the m
 *   `data_results/`: Excel spreadsheets containing all experimental/simulation results, analysis outputs, and processed data.
 *   `README.md`: This documentation file.
 
-## Data Availability Statement
-The data presented in this study are openly available in this GitHub repository at [https://doi.org/10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx) (or at the URL: https://github.com/YourUsername/Your-Repo-Name), reference commit hash or release version.
-
 ## Citation
 If you use this dataset, please cite our accompanying paper:
 > Siyuan Zhou,Le Yang. (2026). *Soft sensor model of f-CaO content in cement clinker based on self-attention and time convolutional network*. *Information*.
